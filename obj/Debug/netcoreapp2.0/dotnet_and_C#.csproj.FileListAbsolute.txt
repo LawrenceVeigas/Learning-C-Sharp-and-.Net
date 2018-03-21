@@ -1,0 +1,10 @@
+/home/lance/Documents/self_study/dotnet_and_C#/obj/Debug/netcoreapp2.0/dotnet_and_C#.csproj.CoreCompileInputs.cache
+/home/lance/Documents/self_study/dotnet_and_C#/obj/Debug/netcoreapp2.0/dotnet_and_C#.AssemblyInfoInputs.cache
+/home/lance/Documents/self_study/dotnet_and_C#/obj/Debug/netcoreapp2.0/dotnet_and_C#.AssemblyInfo.cs
+/home/lance/Documents/self_study/dotnet_and_C#/bin/Debug/netcoreapp2.0/dotnet_and_C#.deps.json
+/home/lance/Documents/self_study/dotnet_and_C#/bin/Debug/netcoreapp2.0/dotnet_and_C#.runtimeconfig.json
+/home/lance/Documents/self_study/dotnet_and_C#/bin/Debug/netcoreapp2.0/dotnet_and_C#.runtimeconfig.dev.json
+/home/lance/Documents/self_study/dotnet_and_C#/bin/Debug/netcoreapp2.0/dotnet_and_C#.dll
+/home/lance/Documents/self_study/dotnet_and_C#/bin/Debug/netcoreapp2.0/dotnet_and_C#.pdb
+/home/lance/Documents/self_study/dotnet_and_C#/obj/Debug/netcoreapp2.0/dotnet_and_C#.dll
+/home/lance/Documents/self_study/dotnet_and_C#/obj/Debug/netcoreapp2.0/dotnet_and_C#.pdb
