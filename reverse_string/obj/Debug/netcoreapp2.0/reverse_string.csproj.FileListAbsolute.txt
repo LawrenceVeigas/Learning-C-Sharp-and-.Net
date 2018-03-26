@@ -1,0 +1,10 @@
+/home/lance/Documents/self_study/dotnet_and_C#/reverse_string/obj/Debug/netcoreapp2.0/reverse_string.csproj.CoreCompileInputs.cache
+/home/lance/Documents/self_study/dotnet_and_C#/reverse_string/obj/Debug/netcoreapp2.0/reverse_string.AssemblyInfoInputs.cache
+/home/lance/Documents/self_study/dotnet_and_C#/reverse_string/obj/Debug/netcoreapp2.0/reverse_string.AssemblyInfo.cs
+/home/lance/Documents/self_study/dotnet_and_C#/reverse_string/bin/Debug/netcoreapp2.0/reverse_string.deps.json
+/home/lance/Documents/self_study/dotnet_and_C#/reverse_string/bin/Debug/netcoreapp2.0/reverse_string.runtimeconfig.json
+/home/lance/Documents/self_study/dotnet_and_C#/reverse_string/bin/Debug/netcoreapp2.0/reverse_string.runtimeconfig.dev.json
+/home/lance/Documents/self_study/dotnet_and_C#/reverse_string/bin/Debug/netcoreapp2.0/reverse_string.dll
+/home/lance/Documents/self_study/dotnet_and_C#/reverse_string/bin/Debug/netcoreapp2.0/reverse_string.pdb
+/home/lance/Documents/self_study/dotnet_and_C#/reverse_string/obj/Debug/netcoreapp2.0/reverse_string.dll
+/home/lance/Documents/self_study/dotnet_and_C#/reverse_string/obj/Debug/netcoreapp2.0/reverse_string.pdb
