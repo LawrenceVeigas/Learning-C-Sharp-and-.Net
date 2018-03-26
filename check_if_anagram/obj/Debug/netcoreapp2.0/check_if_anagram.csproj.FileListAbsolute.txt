@@ -1,0 +1,10 @@
+/home/lance/Documents/self_study/dotnet_and_C#/check_if_anagram/obj/Debug/netcoreapp2.0/check_if_anagram.csproj.CoreCompileInputs.cache
+/home/lance/Documents/self_study/dotnet_and_C#/check_if_anagram/obj/Debug/netcoreapp2.0/check_if_anagram.AssemblyInfoInputs.cache
+/home/lance/Documents/self_study/dotnet_and_C#/check_if_anagram/obj/Debug/netcoreapp2.0/check_if_anagram.AssemblyInfo.cs
+/home/lance/Documents/self_study/dotnet_and_C#/check_if_anagram/bin/Debug/netcoreapp2.0/check_if_anagram.deps.json
+/home/lance/Documents/self_study/dotnet_and_C#/check_if_anagram/bin/Debug/netcoreapp2.0/check_if_anagram.runtimeconfig.json
+/home/lance/Documents/self_study/dotnet_and_C#/check_if_anagram/bin/Debug/netcoreapp2.0/check_if_anagram.runtimeconfig.dev.json
+/home/lance/Documents/self_study/dotnet_and_C#/check_if_anagram/bin/Debug/netcoreapp2.0/check_if_anagram.dll
+/home/lance/Documents/self_study/dotnet_and_C#/check_if_anagram/bin/Debug/netcoreapp2.0/check_if_anagram.pdb
+/home/lance/Documents/self_study/dotnet_and_C#/check_if_anagram/obj/Debug/netcoreapp2.0/check_if_anagram.dll
+/home/lance/Documents/self_study/dotnet_and_C#/check_if_anagram/obj/Debug/netcoreapp2.0/check_if_anagram.pdb
